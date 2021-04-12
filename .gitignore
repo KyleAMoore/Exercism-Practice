@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+!*/
+
+# Exceptions
+
+!.gitignore
+!README.md
+
+# Haskell Source Files
+!**/src/*.hs
